@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tuatertm.github.io/sitemap.html.gz
+Sitemap: https://tuatertm.github.io/app/sitemap.html.gz
+Sitemap: https://tuatertm.github.io/assets/sitemap.html.gz
+Sitemap: https://tuatertm.github.io/css/sitemap.html.gz
+Sitemap: https://tuatertm.github.io/includes/sitemap.html.gz
+Sitemap: https://tuatertm.github.io/item/sitemap.html.gz
+Sitemap: https://tuatertm.github.io/src/sitemap.html.gz
